@@ -1,0 +1,9 @@
+Resolução passo a passo do exercicio da aula 5.
+
+* Abrir o cmd;
+
+* Escrever no terminal "cd" e puxar a pasta para o terminal, depois das letras "cd";
+
+* Depois escreva "javac" e o nome do programa. Será criado o arquivo ".class";
+
+* Agora escreva java e o nome do seu arquivo (sem a extensão), e o arquivo será executado dentro do terminal cmd;
